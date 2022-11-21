@@ -1,5 +1,5 @@
 # Kadalgameing.github.io
-Nama : Muhammad Hamdan Sobirin kelas : TI21A NP M : 21313014 
+Nama : Muhammad Hamdan Sobirin kelas : TI21A NPM : 21313014 
 <!DOCTYPE html>
 <html lang="en">
 
